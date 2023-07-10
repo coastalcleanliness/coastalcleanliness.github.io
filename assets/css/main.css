@@ -3547,6 +3547,7 @@ body
 		resize: vertical;
 	  }
 
-	  form.submitted input:invalid{
+	  form.submitted input:invalid,
+	  form.submitted textarea:invalid{
 		border: 2px solid red;
 	  }
