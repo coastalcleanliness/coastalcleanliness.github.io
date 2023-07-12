@@ -2396,7 +2396,7 @@ body
 
 		.logo {
 			width: 308px;
-			height: 220px;
+			height: 183px;
 		}
 
 
@@ -2933,6 +2933,7 @@ body
 
 		#header a {
 			border-bottom-color: rgba(255, 255, 255, 0.5);
+			font-size: 0.5em;
 		}
 
 			#header a:hover {
@@ -3013,10 +3014,12 @@ body
 
 		#header h1 {
 			margin: 0;
+			font-size: 3em;
 		}
 
 		#header p {
 			margin: 1em 0 0 0;
+			font-size: 0.65em;
 		}
 
 		#header .actions {
@@ -3243,7 +3246,7 @@ body
 
 			.logo {
 				max-width: 269.5px;
-				max-height: 192.5px;
+				max-height: 160.12px;
 			}
 	}
 
@@ -3303,7 +3306,7 @@ body
 
 			.logo {
 				max-width: 250px;
-				max-height: 178.6px;
+				max-height: 148.6px;
 			}
 	}
 
@@ -3438,7 +3441,7 @@ body
 
 			.logo {
 				max-width: 230.75px;
-				max-height: 164.85px;
+				max-height: 137.25px;
 			}
 
 	}
